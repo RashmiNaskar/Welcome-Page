@@ -1,0 +1,25 @@
+head, body{
+
+    height: 100%;
+    width: 100%;
+    background: url("photo-1496181133206-80ce9b88a853.jpg") no-repeat center center fixed; 
+    background-size: cover;
+}
+hr{
+    
+    background-color:rgb(209, 0, 199);
+    
+   
+}
+.btn{
+    border-radius: 300px;
+    
+
+}
+.btn-danger:hover{
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+}
+.buffer{
+    height:470px;
+}
